@@ -16,7 +16,7 @@ Warrior({required String name})
   }
   @override
   String toString(){
-    return '⚔ Воин $name (брони: $armor)';
+    return '⚔️ Воин $name (брони: $armor)';
   }
 
 }
